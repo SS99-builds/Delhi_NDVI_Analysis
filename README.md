@@ -5,6 +5,12 @@ Spatial analysis and vegetation density mapping of Delhi (NCT) using Sentinel-2 
 ## Overview
 Spatial analysis and land cover reclassification of the National Capital Territory (NCT) of Delhi using Sentinel-2 multispectral imagery in QGIS.
 
+## Dataset & Metadata
+- **Data Source:** European Space Agency (ESA) Sentinel-2 MSI (Level-2A Bottom-Of-Atmosphere reflectance)
+- **Acquisition Date:** 15 May 2026
+- **Bands Used:** Band 4 (Red) & Band 8 (Near-Infrared / NIR)
+- **Spatial Resolution:** 10 meters
+
 ## Workflow & Methodology
 1. **Data Acquisition:** Sentinel-2 imagery (Bands 4 & 8).
 2. **Pre-processing:** Mosaiced tiles and clipped to Delhi administrative boundary.
