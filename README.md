@@ -25,6 +25,9 @@ Spatial analysis and land cover reclassification of the National Capital Territo
 ## Output Map Layout
 ![Delhi NDVI Map](Delhi_NDVI_Multiclass.png)
 
+## Disclaimer & Contributions
+This is an independent exploratory analysis created as part of learning QGIS and remote sensing workflows. Since this is an initial work by a beginner, there may be oversights or methodological limitations. Feedback, corrections, and suggestions for improvement are most welcome! Feel free to open an issue or submit a pull request.
+
 ## Attribute Statistics & Data Calculation
 ![Attribute Table](./Delhi%20NDVI%20Multiclass%20Attribute%20Table.png)
 
