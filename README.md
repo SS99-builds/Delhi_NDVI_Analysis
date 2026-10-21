@@ -25,5 +25,8 @@ Spatial analysis and land cover reclassification of the National Capital Territo
 ## Output Map Layout
 ![Delhi NDVI Map](Delhi_NDVI_Multiclass.png)
 
+## Attribute Statistics & Data Calculation
+![Attribute Table](./Delhi%20NDVI%20Multiclass%20Attribute%20Table.png)
+
 ## Data Availability
 Large raster files (.tif datasets) are archived on Zenodo (DOI link coming soon).
