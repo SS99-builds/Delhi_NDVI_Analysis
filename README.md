@@ -10,6 +10,7 @@ Spatial analysis and land cover reclassification of the National Capital Territo
 - **Acquisition Date:** 15 May 2026
 - **Bands Used:** Band 4 (Red) & Band 8 (Near-Infrared / NIR)
 - **Spatial Resolution:** 10 meters
+- **Software:** QGIS
 
 ## Workflow & Methodology
 1. **Data Acquisition:** Sentinel-2 imagery (Bands 4 & 8).
